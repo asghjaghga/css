@@ -2,6 +2,7 @@
 .blue-text {
 color: blue;
 text-align: center;
+font-size: 240px;
 }
 </style>
 <h2 class="blue-text">欢迎登录页面</h2>
